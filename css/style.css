@@ -226,7 +226,7 @@ form label:hover {
   color: #7900db;
 }
 .home {
-  margin-right: 450px;
+  margin: auto;
 }
 .home .box {
   min-height: 100vh;
