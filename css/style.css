@@ -33,8 +33,9 @@ section {
   border-radius: 40px;
 }
 .btn:hover {
-  background: #7900db;
+  background: #5b4c67;
   color: white;
+  box-shadow: 0 0 20px #5b4c67;
 }
 .heading {
   text-align: center;
@@ -357,10 +358,6 @@ form label:hover {
   line-height: 2;
 }
 
-.packages .box-container .box .content .price {
-  font-size: 2rem;
-  color: #219150;
-}
 
 .footer {
   background: -webkit-gradient(
